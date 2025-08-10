@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1600" height="480" alt="Frame 1" src="https://github.com/user-attachments/assets/976e1820-2e58-42c4-beb5-25c89e307e7e" />
+
 
 
 **Tuhin-dv/Tuhin-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
